@@ -1,0 +1,12 @@
+redis_url = "redis://127.0.0.1:6379"
+
+[tg]
+api_url = "https://api.telegram.org"
+
+# sample values from docs at https://core.telegram.org/bots/api#making-requests
+# bot_id = 123456
+# bot_secret = "ABC-DEF1234ghIkl-zyx57W2v1u123ew11"
+
+# demo bot
+bot_id = 5410984469
+bot_secret = "AAGaPlftyFB2WImp1loqw2M7HxWiQhU-LRQ"
